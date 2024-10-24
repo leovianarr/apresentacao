@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Apresentação</title>
+</head>
+<body>
+    <h1>Olá, eu sou Leonardo Viana</h1>
+    <p>Estou aprendendo a usar HTML e GitHub!</p>
+    <h2>Hobbies</h2>
+    <ul>
+        <li>Gravar vídeos para o YouTube</li>
+        <li>Desenvolvimento de software</li>
+        <li>Esportes</li>
+    </ul>
+</body>
+</html>
